@@ -1,3 +1,6 @@
-#header_link{
+#header_link,#blue_box{
     display: inline-block;
+}
+#mid_h1,#copyright_paragraph{
+    text-align: center;
 }
